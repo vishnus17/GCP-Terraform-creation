@@ -1,5 +1,5 @@
 variable "project_id" {
-    default = "angelic-phoenix-350909"
+    default = "your project id"
 }
 variable "instance_type" {
     default = "n1-standard-1"
