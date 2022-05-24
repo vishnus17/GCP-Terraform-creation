@@ -1,4 +1,4 @@
-project = "angelic-phoenix-350909"
+project = "your project id"
 
 machine_type= "n1-standard-1"
 
