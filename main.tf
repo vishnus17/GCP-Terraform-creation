@@ -1,6 +1,6 @@
 provider "google" {
 version = "3.5.0"
-credentials = file("C:/Users/vishn/Downloads/angelic-phoenix-350909-af87d560b732.json")
+credentials = file("<file path to your .json file from service account>")
 project = var.project_id
 region = var.region
 zone = var.zone
